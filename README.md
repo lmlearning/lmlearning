@@ -22,7 +22,7 @@ I run **Research and Implementation (Resai)**, combining hands-on engineering wi
 | [AFGCN](https://github.com/lmlearning/AFGCN) | Graph convolutional networks for approximate abstract argumentation, with training code and trained solvers. |
 | [LLM Linguistic Steering](https://github.com/lmlearning/llm-linguistic-steering) | Experiments on how adjectives influence LLM responses; accompanying research published in TMLR. |
 | [ExplainableArgGCN](https://github.com/lmlearning/ExplainableArgGCN) | Explainable graph learning, baseline comparisons, ablations and neighborhood visualizations. |
-| [FastAFGCN](https://github.com/lmlearning/FastAFGCN) | Quantized ONNX inference combining grounded reasoning with learned argument acceptance. |
+| [AFGraphLib](https://github.com/lmlearning/AFGraphLib) | Graph learning toolkit for abstract argumentation, with example frameworks, solutions and GNN models. |
 | [AI Adoption & Absorptive Capacity](https://github.com/lmlearning/ai-adoption-absorptive-capacity) | Reproducibility materials for a study of AI adoption across two developer surveys. |
 
 ## Research and engineering
@@ -31,7 +31,7 @@ I run **Research and Implementation (Resai)**, combining hands-on engineering wi
 - **Learning to reason:** graph neural networks, abstract argumentation and efficient inference.
 - **Applied AI:** agent architectures, retrieval, MCP tooling and enterprise integration.
 
-More to explore: [AFGraphLib](https://github.com/lmlearning/AFGraphLib) · [Argumentation subsampling](https://github.com/lmlearning/AFSubsample) · [Multiple-Choice Question Generator](https://github.com/lmlearning/llm-multiple-choice-generator)
+More to explore: [FastAFGCN](https://github.com/lmlearning/FastAFGCN) · [Argumentation subsampling](https://github.com/lmlearning/AFSubsample) · [Multiple-Choice Question Generator](https://github.com/lmlearning/llm-multiple-choice-generator)
 
 ## Selected publications
 
