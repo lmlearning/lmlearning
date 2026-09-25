@@ -20,10 +20,10 @@ I run **Research and Implementation (Resai)**, combining hands-on engineering wi
 | --- | --- |
 | [SycBench](https://github.com/lmlearning/SycBench) | Template-driven datasets and experiment utilities for studying LLM sycophancy. |
 | [AFGCN](https://github.com/lmlearning/AFGCN) | Graph convolutional networks for approximate abstract argumentation, with training code and trained solvers. |
-| [Linguistic steering](https://github.com/lmlearning/linguisticsteering) | Experiments on how adjectives influence LLM responses; accompanying research published in TMLR. |
+| [LLM Linguistic Steering](https://github.com/lmlearning/llm-linguistic-steering) | Experiments on how adjectives influence LLM responses; accompanying research published in TMLR. |
 | [ExplainableArgGCN](https://github.com/lmlearning/ExplainableArgGCN) | Explainable graph learning, baseline comparisons, ablations and neighborhood visualizations. |
 | [FastAFGCN](https://github.com/lmlearning/FastAFGCN) | Quantized ONNX inference combining grounded reasoning with learned argument acceptance. |
-| [AI adoption research](https://github.com/lmlearning/cade_2026) | Reproducibility materials for a study of AI adoption across two developer surveys. |
+| [AI Adoption & Absorptive Capacity](https://github.com/lmlearning/ai-adoption-absorptive-capacity) | Reproducibility materials for a study of AI adoption across two developer surveys. |
 
 ## Research and engineering
 
@@ -31,11 +31,11 @@ I run **Research and Implementation (Resai)**, combining hands-on engineering wi
 - **Learning to reason:** graph neural networks, abstract argumentation and efficient inference.
 - **Applied AI:** agent architectures, retrieval, MCP tooling and enterprise integration.
 
-More to explore: [AFGraphLib](https://github.com/lmlearning/AFGraphLib) · [Argumentation subsampling](https://github.com/lmlearning/AFSubsample) · [Question generation](https://github.com/lmlearning/LLMMultiChoiceCreator)
+More to explore: [AFGraphLib](https://github.com/lmlearning/AFGraphLib) · [Argumentation subsampling](https://github.com/lmlearning/AFSubsample) · [Multiple-Choice Question Generator](https://github.com/lmlearning/llm-multiple-choice-generator)
 
 ## Selected publications
 
-- **[Investigating Linguistic Steering: An Analysis of Adjectival Effects Across Large Language Model Architectures](https://openreview.net/pdf?id=xN7NYpQeBm)** — Transactions on Machine Learning Research, 2026. [Code](https://github.com/lmlearning/linguisticsteering).
+- **[Investigating Linguistic Steering: An Analysis of Adjectival Effects Across Large Language Model Architectures](https://openreview.net/pdf?id=xN7NYpQeBm)** — Transactions on Machine Learning Research, 2026. [Code](https://github.com/lmlearning/llm-linguistic-steering).
 - **[Sycophancy in Large Language Models: Causes and Mitigations](https://link.springer.com/chapter/10.1007/978-3-031-92611-2_5)** — Computing Conference, 2025. [Open preprint](https://arxiv.org/abs/2411.15287).
 - **[Winning at All Cost: A Small Environment for Eliciting Specification Gaming Behaviors in Large Language Models](https://arxiv.org/abs/2505.07846)** — ACNS Workshops, 2025; link to open preprint.
 - **[Approximating Problems in Abstract Argumentation with Graph Convolutional Networks](https://www-users.york.ac.uk/peter.nightingale/aij-argumentation-2024.pdf)** — Artificial Intelligence, 2024, with T. Yuan and P. Nightingale. [Code](https://github.com/lmlearning/AFGCN).
