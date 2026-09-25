@@ -16,14 +16,16 @@ I run **Research and Implementation (Resai)**, combining hands-on engineering wi
 
 ## Selected work
 
-| Project | What to explore |
-| --- | --- |
-| [SycBench](https://github.com/lmlearning/SycBench) | Template-driven datasets and experiment utilities for studying LLM sycophancy. |
-| [AFGCN](https://github.com/lmlearning/AFGCN) | Graph convolutional networks for approximate abstract argumentation, with training code and trained solvers. |
-| [LLM Linguistic Steering](https://github.com/lmlearning/llm-linguistic-steering) | Experiments on how adjectives influence LLM responses; accompanying research published in TMLR. |
-| [ExplainableArgGCN](https://github.com/lmlearning/ExplainableArgGCN) | Explainable graph learning, baseline comparisons, ablations and neighborhood visualizations. |
-| [AFGraphLib](https://github.com/lmlearning/AFGraphLib) | Graph learning toolkit for abstract argumentation, with example frameworks, solutions and GNN models. |
-| [AI Adoption & Absorptive Capacity](https://github.com/lmlearning/ai-adoption-absorptive-capacity) | Reproducibility materials for a study of AI adoption across two developer surveys. |
+Open a quick start to run a CPU model, build an analysis report or verify a recorded result.
+
+| Project | What to inspect | Try it |
+| --- | --- | --- |
+| [AFGraphLib](https://github.com/lmlearning/AFGraphLib) | Graph-learning components, framework data and a complete GCN training example. | [CPU example](https://github.com/lmlearning/AFGraphLib#run-a-cpu-example) |
+| [AFGCN](https://github.com/lmlearning/AFGCN) | Grounded reasoning, structural features and pretrained graph-network decision solvers. | [Run a query](https://github.com/lmlearning/AFGCN#run-the-included-example) |
+| [ExplainableArgGCN](https://github.com/lmlearning/ExplainableArgGCN) | Attack/defence message passing, ranking objectives, baseline implementations and ablations. | [Model smoke test](https://github.com/lmlearning/ExplainableArgGCN#run-a-real-cpu-smoke-example) |
+| [SycBench](https://github.com/lmlearning/SycBench) | Installable, streaming dataset transformation and validated experiment-log scoring. | [CLI example](https://github.com/lmlearning/SycBench#install-and-try-the-included-example) |
+| [LLM Linguistic Steering](https://github.com/lmlearning/llm-linguistic-steering) | Adjective-effect estimation, explicit answer parsing and report generation; accompanying TMLR research. | [Local report](https://github.com/lmlearning/llm-linguistic-steering#generate-a-report-without-an-api-key) |
+| [AI Adoption & Absorptive Capacity](https://github.com/lmlearning/ai-adoption-absorptive-capacity) | Two-survey statistical analysis with verifiable tables and pinned data provenance. | [Verify a result](https://github.com/lmlearning/ai-adoption-absorptive-capacity#verify-an-included-result-in-minutes) |
 
 ## Research and engineering
 
